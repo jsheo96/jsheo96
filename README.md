@@ -1,34 +1,17 @@
-# Hello, I'm [Your Name]! 👋
+# I'm Jiseong Heo
 
-I'm a passionate [your profession] and open-source enthusiast. Welcome to my GitHub profile!
+I'm a passionate AI researcher and developer from South Korea.
 
 ## About Me
 
-- 🔭 I’m currently working on [current project or job]
-- 🌱 I’m currently learning [programming language or technology]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 😄 Pronouns: [your preferred pronouns]
-- ⚡ Fun fact: [an interesting fact about yourself]
+- 🔭 I’m currently working for TIDEPOOL as a CTO.
 
 ## Tech Stack
 
-- Programming languages: [list of languages you are proficient in]
-- Frameworks: [list of frameworks you have experience with]
-- Tools: [development tools you frequently use]
-- Databases: [databases you are familiar with]
-- Other technologies: [any other relevant technologies]
-
-## Projects
-
-- [Project 1](link to project): Brief description of the project.
-- [Project 2](link to project): Brief description of the project.
-- [Project 3](link to project): Brief description of the project.
-
-## Open Source Contributions
-
-- [Contribution 1](link to contribution): Description of the contribution.
-- [Contribution 2](link to contribution): Description of the contribution.
-- [Contribution 3](link to contribution): Description of the contribution.
+- Programming languages: [Python, C, C++, Javascript]
+- Frameworks: [Pytorch, scikit-learn, Bootstrap, Node.js, Django]
+- Tools: [Pycharm, Git, Docker, Jupyter Notebook, VSCode, Vim]
+- Databases: [PostgreSQL, AWS RDS, AWS S3]
 
 ## GitHub Stats
 
@@ -36,9 +19,5 @@ I'm a passionate [your profession] and open-source enthusiast. Welcome to my Git
 
 ## Connect with Me
 
-- Website: [your website](link to your website)
-- Twitter: [@your-twitter-handle](link to your Twitter profile)
-- LinkedIn: [your LinkedIn profile](link to your LinkedIn profile)
-- Email: [your email address]
-
-Feel free to reach out to me for collaborations or any questions you may have. Let's connect and build awesome things together!
+- LinkedIn: [linkedin](https://www.linkedin.com/in/jsheo)
+- Email: [jsheo@tidepool.kr]
