@@ -5,6 +5,7 @@ I'm a passionate AI researcher and developer from South Korea.
 ## About Me
 
 - 🔭 I’m currently working for TIDEPOOL as a CTO.
+- 🐟️ TIDEPOOL innovates traditional aquaculture industry using computer vision technology.
 
 ## Tech Stacks
 
@@ -35,4 +36,7 @@ I'm a passionate AI researcher and developer from South Korea.
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsheo)
-- Email: [jsheo@tidepool.kr]
+
+Email: jsheo@tidepool.kr
+
+feel free to contact me if you have any questions about me or TIDEPOOL.
