@@ -15,7 +15,7 @@ I'm a passionate AI researcher and developer from South Korea.
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jsheo96&show_icons=true&theme=dark&count_private=true)]
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jsheo96&show_icons=true&theme=dark&count_private=false)]
 
 ## Connect with Me
 
